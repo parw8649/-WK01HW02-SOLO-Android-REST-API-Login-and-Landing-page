@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WK01HW02 SOLO</string>
+    <string name="textView_login">Log In</string>
+    <string name="button_login">Login</string>
+    <string name="editText_hint_username">Username</string>
+    <string name="editText_hint_password">Password</string>
+    <string name="button_signIn">Sign In</string>
+    <string name="textView_hint_welcome">Welcome</string>
+    <string name="tv_editable_welcome">Welcome,</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="logout">Logout?</string>
+</resources>
